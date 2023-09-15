@@ -28,8 +28,8 @@ The Expense Tracker Application is a Java-based web application developed using 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/expense-tracker.git
-    cd expense-tracker
+    [git clone https://github.com/your-username/expense-tracker.git](https://github.com/niraj0511/springboot-mongodb-Mongock.git)
+    cd springboot-mongodb-Mongock
     ```
 
 2. **Build the application:**
@@ -67,7 +67,7 @@ The API supports the following CRUD operations:
 - **GET /api/expenses**: Retrieve all expenses.
 - **GET /api/expenses/{id}**: Retrieve a specific expense by ID.
 - **POST /api/expenses**: Create a new expense.
-- **PUT /api/expenses/{id}**: Update an existing expense.
+- **PUT /api/expenses**: Update an existing expense.
 - **DELETE /api/expenses/{id}**: Delete an expense by ID.
 
 ## Swagger Documentation
@@ -78,9 +78,6 @@ The API documentation is available using Swagger UI. Access it by navigating to 
 
 We welcome contributions! If you would like to contribute to this project, please follow our [contributing guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
