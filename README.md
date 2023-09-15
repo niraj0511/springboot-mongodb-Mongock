@@ -72,7 +72,3 @@ The API supports the following CRUD operations:
 
 The API documentation is available using Swagger UI. Access it by navigating to `http://localhost:8080/swagger-ui.html` after starting the application.
 
-
----
-
-Feel free to customize this README file to fit the specifics of your project. Add or modify sections based on your application's unique features and requirements.
