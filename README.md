@@ -8,8 +8,6 @@
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Swagger Documentation](#swagger-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
