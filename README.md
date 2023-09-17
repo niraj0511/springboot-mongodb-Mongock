@@ -16,7 +16,7 @@ The Expense Tracker Application is a Java-based web application developed using 
 ## Technologies Used
 
 - Java 17
-- Spring Boot 3
+- Spring Boot 3.0.0
 - MongoDB
 - Mongock
 - Swagger
